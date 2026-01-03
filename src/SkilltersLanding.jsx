@@ -80,6 +80,7 @@ export default function SkilltersPage() {
       platform: 'Find Us',
       label: 'View our location',
       icon: <FaFacebookF />,
+      href: 'https://location.skillters.in', 
       config: {
         border: 'border-blue-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(59,130,246,0.5)]',
@@ -92,6 +93,7 @@ export default function SkilltersPage() {
       platform: 'Instagram',
       label: 'Follow us on',
       icon: <FaInstagram />,
+      href: 'https://www.instagram.com/skillters.in?igsh=cGRpc2I0MjhhaHZ2', 
       config: {
         border: 'border-pink-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(236,72,153,0.5)]',
@@ -104,6 +106,7 @@ export default function SkilltersPage() {
       platform: 'YouTube',
       label: 'Watch on',
       icon: <FaYoutube />,
+      href: 'https://youtube.com/@skillters?si=onl0uZIVSRGCBdaq', 
       config: {
         border: 'border-red-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(239,68,68,0.5)]',
@@ -116,6 +119,7 @@ export default function SkilltersPage() {
       platform: 'WhatsApp',
       label: 'Chat on',
       icon: <FaWhatsapp />,
+      href: 'https://wa.me/916355774721', 
       config: {
         border: 'border-green-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(34,197,94,0.5)]',
@@ -158,7 +162,7 @@ export default function SkilltersPage() {
         </div>
 
         {/* FOOTER BUTTON */}
-        <a href="#" className="relative w-full group mt-6">
+        <a href="https://skillters.in" className="relative w-full group mt-6">
           <div className="absolute -inset-1 bg-gradient-to-r from-orange-400 to-yellow-300 rounded-full blur opacity-25 group-hover:opacity-75 transition duration-200" />
           <div className="relative w-full bg-gradient-to-r from-[#fb923c] via-[#fbbf24] to-[#facc15] rounded-full p-4 flex items-center justify-center gap-3 shadow-lg transform active:scale-95 transition-all">
             <div className="bg-white rounded-full p-1.5 shadow-sm">
