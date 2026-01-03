@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   FaFacebookF,
+  FaMapMarkerAlt,
   FaInstagram,
   FaYoutube,
   FaWhatsapp,
@@ -79,7 +80,7 @@ export default function SkilltersPage() {
       id: 1,
       platform: 'Find Us',
       label: 'View our location',
-      icon: <FaFacebookF />,
+      icon: <FaMapMarkerAlt />,
       href: 'https://location.skillters.in', 
       config: {
         border: 'border-blue-500/30',
