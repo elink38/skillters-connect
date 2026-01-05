@@ -107,7 +107,7 @@ export default function SkilltersPage() {
       platform: 'YouTube',
       label: 'Watch on',
       icon: <FaYoutube />,
-      href: 'https://youtube.com/@skillters?si=onl0uZIVSRGCBdaq', 
+      href: 'http://youtube.com/watch?v=GLHo1IzmvxY', 
       config: {
         border: 'border-red-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(239,68,68,0.5)]',
