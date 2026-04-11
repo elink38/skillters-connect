@@ -120,7 +120,7 @@ export default function SkilltersPage() {
       platform: 'WhatsApp',
       label: 'Chat on',
       icon: <FaWhatsapp />,
-      href: 'https://wa.me/916355774721', 
+      href: 'https://wa.me/917862894787', 
       config: {
         border: 'border-green-500/30',
         hoverShadow: 'hover:shadow-[0_0_20px_rgba(34,197,94,0.5)]',
